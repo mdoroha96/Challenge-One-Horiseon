@@ -21,6 +21,8 @@ body {
 }
 
 .header h1 .seo {
+    padding: 20px;
+    background-color: #2a607c;
     color: #d9dcd6;
 }
 
