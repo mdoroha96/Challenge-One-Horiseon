@@ -29,11 +29,12 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![alt text]("C:\Users\doroh\OneDrive\Desktop\BootCamp\ChallengeOne\Screenshot 2022-09-15 124006.png")
 
 ## Credits
 
 Resources that were utilized in editing this starter project were:
+
 https://www.internetingishard.com/html-and-css/semantic-html/
 
 https://www.nobledesktop.com/html-quick-guide
