@@ -14,22 +14,10 @@ Web page that has funtioning link and image sources. Also consolidated HTML and 
     Consolidating elements and organizing these elements.
 - Information that was obtained while working on this project was how to properly link styling sheet within HTML. How to properly consolidate elements within header. Also how to input background and font color. Lastly how to input image and link content within the code. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Usage
+[Deployed Website](https://mdoroha96.github.io/Challenge-One-Horiseon/)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-[alt text]("Screenshot 2022-09-15 124006.png")
+![Screen Shot ](assets/Screenshot%202022-09-15%20124006.png)
 
 ## Credits
 
